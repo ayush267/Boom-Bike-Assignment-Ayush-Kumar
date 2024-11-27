@@ -18,7 +18,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The R-squared value of the train set is 82.71% whereas the test set has a value of 81.13% which suggests that our model broadly explains the variance quite accurately on the test set and thus we can conclude that it is a good model.
+- The R-squared value of the train set is 83.6% whereas the test set has a value of 79.99% which suggests that our model broadly explains the variance quite accurately on the test set and thus we can conclude that it is a good model.
 
 - Our developed model's mean squared error is almost 0 on both the training and testing datasets which suggests that the variance is accurately predicted on the test set. The p-values and VIF were used to select the significant variables. RFE was also conducted for automated selection of variables.
 
